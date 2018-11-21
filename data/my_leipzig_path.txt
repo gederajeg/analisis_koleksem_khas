@@ -1,0 +1,5 @@
+/Users/Primahadi/Documents/Corpora/_corpusindo/Leipzig Corpora/ind_news_2008_300K-sentences.txt
+/Users/Primahadi/Documents/Corpora/_corpusindo/Leipzig Corpora/ind_news_2009_300K-sentences.txt
+/Users/Primahadi/Documents/Corpora/_corpusindo/Leipzig Corpora/ind_news_2010_300K-sentences.txt
+/Users/Primahadi/Documents/Corpora/_corpusindo/Leipzig Corpora/ind_news_2011_300K-sentences.txt
+/Users/Primahadi/Documents/Corpora/_corpusindo/Leipzig Corpora/ind_news_2012_300K-sentences.txt
