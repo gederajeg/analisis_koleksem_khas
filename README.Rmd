@@ -4,6 +4,8 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![doi](https://img.shields.io/badge/doi-10.26180/5bf4e49ea1582-blue.svg?style=flat-square)](http://dx.doi.org/10.26180/5bf4e49ea1582)
+
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,

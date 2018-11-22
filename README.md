@@ -1,5 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+[![doi](https://img.shields.io/badge/doi-10.26180/5bf4e49ea1582-blue.svg?style=flat-square)](http://dx.doi.org/10.26180/5bf4e49ea1582)
+
 Repository of codes and data for "Analisis Koleksem Khas dan Potensinya untuk Kajian Kemiripan Makna Konstruksional dalam Bahasa Indonesia"
 ===========================================================================================================================================
 

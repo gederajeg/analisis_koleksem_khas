@@ -2,15 +2,15 @@
 title: Analisis Koleksem Khas dan Potensinya untuk Kajian Kemiripan Makna Konstruksional dalam Bahasa Indonesia
 csl: apa-doi.csl
 output:
+  bookdown::pdf_document2:
+    toc: yes
+    number_sections: yes
+    fig_caption: true
   bookdown::word_document2:
     df_print: kable
     fig_caption: yes
     fig_width: 6
     reference_docx: analisis_koleksem_khas_paper_template.docx
-  bookdown::pdf_document2:
-    toc: yes
-    number_sections: yes
-    fig_caption: true
   html_notebook:
     code_folding: hide
     fig_caption: yes
