@@ -5,7 +5,7 @@
 Repository of codes and data for "Analisis Koleksem Khas dan Potensinya untuk Kajian Kemiripan Makna Konstruksional dalam Bahasa Indonesia"
 ===========================================================================================================================================
 
-This is a repository for a forthcoming chapter (written in Indonesian) in a Festschrift titled "*E**tika** Bahasa: Buku Persembahan Menapaki Usia Pensiun I KETUT TIKA*" and edited by I Nengah Sudipa (English Department, Udayana University, Indonesia). Full citation of this chapter, which includes page range, will be provided once the Festschrift has been published by the end of December 2018. In addition, pre-print of the chapter will be made available soon.
+This is a repository of R codes and data for a chapter (written in Indonesian) in a Festschrift titled "*E**tika** Bahasa: Buku Persembahan Menapaki Usia Pensiun I KETUT TIKA*" and edited by I Nengah Sudipa (English Department, Udayana University, Indonesia).
 
 Authors
 -------
@@ -16,6 +16,21 @@ Licenses
 --------
 
 The dataset for this project and the R Markdown source file for writing up the paper are licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). The embedded R codes within the R Markdown source file to run the statistical analysis are licensed under the [MIT License](https://github.com/gederajeg/analisis_koleksem_khas/blob/master/LICENSE).
+
+Citations
+---------
+
+American Psychological Association 6th edition:
+
+> Rajeg, G. P. W., & Rajeg, I. M. (2019). Analisis Koleksem Khas dan potensinya untuk kajian kemiripan makna konstruksional dalam Bahasa Indonesia. In I. N. Sudipa (Ed.), *ETIKA BAHASA Buku persembahan menapaki usia pensiun: I Ketut Tika* (Vol. 1, pp. 65–83). Denpasar, Bali, Indonesia: Swasta Nulus bekerjasama dengan Program Studi Sastra Inggris, Fakultas Ilmu Budaya, Universitas Udayana. <https://doi.org/10.26180/5bf4e49ea1582>
+
+Chicago Manual of Style 17th edition (author-date):
+
+> Rajeg, Gede Primahadi Wijaya, and I Made Rajeg. 2019. ‘Analisis Koleksem Khas dan potensinya untuk kajian kemiripan makna konstruksional dalam Bahasa Indonesia’. *In ETIKA BAHASA Buku persembahan menapaki usia pensiun: I Ketut Tika*, edited by I Nengah Sudipa, 1:65–83. Denpasar, Bali, Indonesia: Swasta Nulus bekerjasama dengan Program Studi Sastra Inggris, Fakultas Ilmu Budaya, Universitas Udayana. <https://doi.org/10.26180/5bf4e49ea1582>.
+
+Unified style sheet for linguistics:
+
+> Rajeg, Gede Primahadi Wijaya & I Made Rajeg. 2019. Analisis Koleksem Khas dan potensinya untuk kajian kemiripan makna konstruksional dalam Bahasa Indonesia. In I Nengah Sudipa (ed.), *ETIKA BAHASA Buku persembahan menapaki usia pensiun: I Ketut Tika*, vol. 1, 65–83. Denpasar, Bali, Indonesia: Swasta Nulus bekerjasama dengan Program Studi Sastra Inggris, Fakultas Ilmu Budaya, Universitas Udayana. <doi:10.26180/5bf4e49ea1582>. <https://osf.io/preprints/inarxiv/uwzts/> (30 January, 2019).
 
 Abstract of the paper
 ---------------------
